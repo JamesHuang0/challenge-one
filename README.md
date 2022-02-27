@@ -10,6 +10,18 @@ Changes to the header:
 
 * <title> was made more precise in describing website. 
 
+Changes to the body:
+
+* Added an anchor to logo.
+* Changed <div class="header"> to <header>.
+* Added alt text to images.
+* Added missing id to search-engine-optimization.
+* Changed <div class="footer"> to <footer>.
+
 ## Changes Made to CSS
+
+* Added comments.
+* Changed appropriate header and footer element tags.
+* Deleted repeated code and consolidated under parent HTML class.
 
 
