@@ -26,5 +26,5 @@ Changes to the body:
 
 https://mrxanthic.github.io/challenge-one/
 
-
+![Screenshot](https://github.com/mrxanthic/challenge-one/blob/4536c6bf33ddc8e57dd82bdb10f3e43d6f66d9a2/assets/images/Screenshot.png)
 
